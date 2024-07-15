@@ -1,0 +1,1510 @@
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\bin\Debug\Payroll.exe
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_shift_allocation_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.File_Upload_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.group_shift_allocation_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.line_info_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.designation_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.department_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.section_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+H:\UPDATE_ALL_Source\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\bin\Debug\Payroll.exe
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_shift_allocation_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.File_Upload_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.group_shift_allocation_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.line_info_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.designation_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.department_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.section_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+H:\UPDATE_ALL_Source\MY_WORK\ALL WEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\bin\Debug\Payroll.exe
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_shift_allocation_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.File_Upload_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.group_shift_allocation_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.line_info_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.designation_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.department_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.section_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+E:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+J:\ALLUPDATEWEAVING\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+J:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+J:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+J:\ALLUPDATEWEAVING\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_shift_allocation_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.File_Upload_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.group_shift_allocation_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.line_info_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.designation_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.department_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.section_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+H:\UPDATE_ALL_Source\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+H:\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_shift_allocation_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.File_Upload_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.group_shift_allocation_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.employee_Information_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+H:\NG_TFL\Payroll\bin\Debug\Payroll.exe
+H:\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+G:\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+G:\NG_TFL\Payroll\bin\Debug\Payroll.exe
+G:\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.employee_Information_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_shift_allocation_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.File_Upload_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.group_shift_allocation_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+G:\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+H:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+H:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+H:\MY_WORK\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+H:\MY_WORK\NG_TFL\Payroll\bin\Debug\Payroll.exe
+H:\MY_WORK\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_shift_allocation_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.File_Upload_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.group_shift_allocation_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+H:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+D:\MY_WORK\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+D:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+D:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+D:\MY_WORK\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.File_Upload_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.group_shift_allocation_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.daily_shift_allocation_UC.resources
+D:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.daily_shift_allocation_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.File_Upload_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.group_shift_allocation_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+H:\MY_WORK\ALL Spinning_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+I:\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+I:\NG_TFL\Payroll\bin\Debug\Payroll.exe
+I:\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\HRMS.daily_shift_allocation_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\HRMS.File_Upload_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\HRMS.group_shift_allocation_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+I:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.exe
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.daily_shift_allocation_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.File_Upload_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.group_shift_allocation_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+I:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.exe
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.daily_shift_allocation_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.File_Upload_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.group_shift_allocation_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+H:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.exe
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.ResolveComReference.cache
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.daily_shift_allocation_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.File_Upload_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.group_shift_allocation_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+E:\MY_WORK\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+D:\payroll_source\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+D:\payroll_source\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.exe
+D:\payroll_source\OTHERS\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.daily_shift_allocation_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.File_Upload_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\HRMS.group_shift_allocation_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+D:\payroll_source\OTHERS\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.AdvanceSalaryProcess.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Dash_Board_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Earn_Leave_Process.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_Information_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.MaternityLeaveProcess.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.frmSecurityInputBox.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Advance_Dues_Deduction_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Holiday_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.ManualAttendance.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Movement_Register.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Daily_Attendance.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Attendance_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.company_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_early_out_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_late_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.daily_over_time_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.daily_shift_allocation_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.data_backup_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_category_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Feature_entry_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Festival_Bonus_Entry_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.File_Upload_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\HRMS.group_shift_allocation_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Hour_Punishment_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.intime_null_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Leave_Process_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.line_info_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.out_time_null_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Attendance_Details.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.employee_status_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Employee_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Binary_Manual.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Monthly_Report_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_New_Recruitment_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Payroll_Login_form.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.payroll_main_form.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.designation_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Advantage_Report_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_For_Salary_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Report_Salary_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.CrystalReportViewerUC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.department_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Buyer_Update.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Process_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Rule_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Salary_Setup_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.section_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.shift_info_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Signing_Setup_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.TrackingTask.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.unit_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Promotion_Entry_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.User_Privilege_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Weekend_Process.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.WeekendSetup.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\WindowsFormsApplication1.Yearly_Increment_UC.resources
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+G:\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+F:\USB\NG_Payroll\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+F:\USB\NG_Payroll\NG_TFL\Payroll\bin\Debug\Payroll.exe
+F:\USB\NG_Payroll\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.AdvanceSalaryProcess.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Dash_Board_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Earn_Leave_Process.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.MaternityLeaveProcess.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Advance_Dues_Deduction_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Holiday_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.ManualAttendance.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Movement_Register.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Daily_Attendance.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Attendance_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.company_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_early_out_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_late_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_over_time_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_shift_allocation_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.data_backup_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_category_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Feature_entry_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Festival_Bonus_Entry_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.File_Upload_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.group_shift_allocation_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Hour_Punishment_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.intime_null_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Leave_Process_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.line_info_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.out_time_null_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Employee_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Binary_Manual.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Report_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.designation_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Advantage_Report_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_For_Salary_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Salary_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.department_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Buyer_Update.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Process_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Rule_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Setup_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.section_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.shift_info_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Signing_Setup_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.TrackingTask.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.unit_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Promotion_Entry_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.User_Privilege_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Weekend_Process.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.WeekendSetup.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Yearly_Increment_UC.resources
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+F:\USB\NG_Payroll\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.exe
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.AdvanceSalaryProcess.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Dash_Board_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Earn_Leave_Process.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.MaternityLeaveProcess.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Advance_Dues_Deduction_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Holiday_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.ManualAttendance.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Movement_Register.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Daily_Attendance.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Attendance_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.company_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_early_out_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_late_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_over_time_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_shift_allocation_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.data_backup_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_category_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Feature_entry_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Festival_Bonus_Entry_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.File_Upload_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.group_shift_allocation_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Hour_Punishment_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.intime_null_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Leave_Process_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.line_info_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.out_time_null_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Employee_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Binary_Manual.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Report_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.designation_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Advantage_Report_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_For_Salary_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Salary_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.department_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Buyer_Update.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Process_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Rule_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Setup_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.section_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.shift_info_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Signing_Setup_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.TrackingTask.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.unit_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Promotion_Entry_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.User_Privilege_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Weekend_Process.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.WeekendSetup.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Yearly_Increment_UC.resources
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+G:\All source from suchinta\DR_G\Practies Work\ALL WEAVING_Update\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.AdvanceSalaryProcess.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Dash_Board_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Earn_Leave_Process.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.MaternityLeaveProcess.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Advance_Dues_Deduction_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Holiday_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.ManualAttendance.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Movement_Register.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Daily_Attendance.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Attendance_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.company_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_early_out_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_late_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_over_time_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_shift_allocation_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.data_backup_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_category_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Feature_entry_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Festival_Bonus_Entry_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.File_Upload_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.group_shift_allocation_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Hour_Punishment_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.intime_null_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Leave_Process_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.line_info_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.out_time_null_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Employee_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Binary_Manual.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Report_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.designation_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Advantage_Report_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_For_Salary_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Salary_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.department_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Buyer_Update.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Process_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Rule_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Setup_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.section_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.shift_info_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Signing_Setup_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.TrackingTask.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.unit_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Promotion_Entry_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.User_Privilege_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Weekend_Process.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.WeekendSetup.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Yearly_Increment_UC.resources
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+D:\Projects\Cluster_04\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+D:\Projects\Cluster_04\NG_TFL\Payroll\bin\Debug\Payroll.exe
+D:\Projects\Cluster_04\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+D:\Projects\Cluster_04\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+F:\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+F:\NG_TFL\Payroll\bin\Debug\Payroll.exe
+F:\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.AdvanceSalaryProcess.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Dash_Board_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Earn_Leave_Process.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.MaternityLeaveProcess.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Advance_Dues_Deduction_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Holiday_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.ManualAttendance.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Movement_Register.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Daily_Attendance.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Attendance_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.company_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_early_out_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_late_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_over_time_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_shift_allocation_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.data_backup_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_category_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Feature_entry_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Festival_Bonus_Entry_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.File_Upload_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.group_shift_allocation_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Hour_Punishment_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.intime_null_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Leave_Process_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.line_info_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.out_time_null_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Employee_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Binary_Manual.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Report_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.designation_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Advantage_Report_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_For_Salary_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Salary_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.department_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Buyer_Update.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Process_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Rule_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Setup_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.section_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.shift_info_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Signing_Setup_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.TrackingTask.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.unit_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Promotion_Entry_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.User_Privilege_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Weekend_Process.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.WeekendSetup.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Yearly_Increment_UC.resources
+F:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+F:\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+F:\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+F:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+J:\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+J:\NG_TFL\Payroll\bin\Debug\Payroll.exe
+J:\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.AdvanceSalaryProcess.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Dash_Board_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Earn_Leave_Process.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.MaternityLeaveProcess.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Advance_Dues_Deduction_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Holiday_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.ManualAttendance.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Movement_Register.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Daily_Attendance.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Attendance_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.company_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_early_out_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_late_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_over_time_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_shift_allocation_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.data_backup_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_category_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Feature_entry_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Festival_Bonus_Entry_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.File_Upload_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.group_shift_allocation_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Hour_Punishment_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.intime_null_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Leave_Process_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.line_info_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.out_time_null_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Employee_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Binary_Manual.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Report_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.designation_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Advantage_Report_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_For_Salary_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Salary_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.department_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Buyer_Update.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Process_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Rule_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Setup_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.section_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.shift_info_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Signing_Setup_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.TrackingTask.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.unit_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Promotion_Entry_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.User_Privilege_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Weekend_Process.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.WeekendSetup.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Yearly_Increment_UC.resources
+J:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+J:\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+J:\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+J:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\NG Official\NG Payroll\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+E:\NG Official\NG Payroll\NG_TFL\Payroll\bin\Debug\Payroll.exe
+E:\NG Official\NG Payroll\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.AdvanceSalaryProcess.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Dash_Board_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Earn_Leave_Process.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.MaternityLeaveProcess.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Advance_Dues_Deduction_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Holiday_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.ManualAttendance.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Movement_Register.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Daily_Attendance.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Attendance_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.company_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_early_out_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_late_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_over_time_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_shift_allocation_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.data_backup_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_category_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Feature_entry_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Festival_Bonus_Entry_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.File_Upload_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.group_shift_allocation_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Hour_Punishment_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.intime_null_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Leave_Process_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.line_info_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.out_time_null_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Employee_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Binary_Manual.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Report_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.designation_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Advantage_Report_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_For_Salary_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Salary_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.department_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Buyer_Update.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Process_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Rule_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Setup_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.section_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.shift_info_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Signing_Setup_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.TrackingTask.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.unit_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Promotion_Entry_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.User_Privilege_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Weekend_Process.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.WeekendSetup.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Yearly_Increment_UC.resources
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+E:\NG Official\NG Payroll\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\bin\Debug\Payroll.exe
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.AdvanceSalaryProcess.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Dash_Board_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Earn_Leave_Process.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.MaternityLeaveProcess.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Advance_Dues_Deduction_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Holiday_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.ManualAttendance.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Movement_Register.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Daily_Attendance.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Attendance_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.company_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_early_out_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_late_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_over_time_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_shift_allocation_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.data_backup_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_category_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Feature_entry_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Festival_Bonus_Entry_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.File_Upload_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.group_shift_allocation_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Hour_Punishment_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.intime_null_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Leave_Process_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.line_info_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.out_time_null_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Employee_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Binary_Manual.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Report_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.designation_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Advantage_Report_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_For_Salary_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Salary_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.department_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Buyer_Update.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Process_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Rule_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Setup_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.section_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.shift_info_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Signing_Setup_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.TrackingTask.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.unit_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Promotion_Entry_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.User_Privilege_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Weekend_Process.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.WeekendSetup.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Yearly_Increment_UC.resources
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+E:\NG Official\NG Payroll\CLUSTER_4\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+D:\NG_TFL\Payroll\bin\Debug\Payroll.exe.config
+D:\NG_TFL\Payroll\bin\Debug\Payroll.exe
+D:\NG_TFL\Payroll\bin\Debug\Payroll.pdb
+D:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.AdvanceSalaryProcess.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Dash_Board_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Earn_Leave_Process.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.MaternityLeaveProcess.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Advance_Dues_Deduction_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Holiday_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.ManualAttendance.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Movement_Register.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Daily_Attendance.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Attendance_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.company_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_early_out_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_late_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_over_time_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.daily_shift_allocation_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.data_backup_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_category_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Feature_entry_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Festival_Bonus_Entry_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.File_Upload_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.group_shift_allocation_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Hour_Punishment_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.intime_null_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Leave_Process_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.line_info_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.out_time_null_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Employee_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Binary_Manual.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Monthly_Report_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.designation_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Advantage_Report_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_For_Salary_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Report_Salary_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.department_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Buyer_Update.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Process_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Rule_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Salary_Setup_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.section_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.shift_info_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Signing_Setup_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.TrackingTask.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.unit_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Promotion_Entry_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.User_Privilege_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Weekend_Process.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.WeekendSetup.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\NGPayroll.Yearly_Increment_UC.resources
+D:\NG_TFL\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+D:\NG_TFL\Payroll\obj\x86\Debug\Payroll.exe
+D:\NG_TFL\Payroll\obj\x86\Debug\Payroll.pdb
+D:\TG_INV\Payroll\bin\Debug\Payroll.exe.config
+D:\TG_INV\Payroll\bin\Debug\Payroll.exe
+D:\TG_INV\Payroll\bin\Debug\Payroll.pdb
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucDashboard.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.employee_Information_UC.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.frmSecurityInputBox.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.Attendance_Details.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.employee_status_UC.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.Report_New_Recruitment_UC.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.Payroll_Login_form.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.payroll_main_form.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.Properties.Resources.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.CrystalReportViewerUC.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucCategory.resources
+D:\TG_INV\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+D:\TG_INV\Payroll\obj\x86\Debug\Payroll.exe
+D:\TG_INV\Payroll\obj\x86\Debug\Payroll.pdb
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucUOM.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucProduct.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucStockIn.resources
+D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucStockOut.resources
