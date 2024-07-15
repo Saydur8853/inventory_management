@@ -1508,3 +1508,4 @@ D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucUOM.resources
 D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucProduct.resources
 D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucStockIn.resources
 D:\TG_INV\Payroll\obj\x86\Debug\NGPayroll.ucStockOut.resources
+D:\TG_INV\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache

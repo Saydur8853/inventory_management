@@ -267,6 +267,7 @@
             this.Controls.Add(this.label1);
             this.Name = "ucProduct";
             this.Size = new System.Drawing.Size(1120, 620);
+            this.Load += new System.EventHandler(this.ucProduct_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProd)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

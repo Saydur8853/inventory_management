@@ -19,23 +19,33 @@ namespace NGPayroll
             GetUom();
 
         }
-        private void ucUom_Load(object sender, EventArgs e)
+        private void ucProduct_Load(object sender, EventArgs e)
         {
             // Clear the DataGridView to avoid duplication
-            dgvUOM.Rows.Clear();
+            dgvProd.Rows.Clear();
             // Retrieve data into grid
-            DataSet ds = db.GetDataSet("SELECT * FROM tb_uom");
+            string strSql = @"SELECT p.PROD_ID, p.PROD_CODE, p.PROD_NAME, c.CATE_NAME, u.UOM_NAME, p.IS_ACTIVE 
+                      FROM tb_product p 
+                      JOIN tb_category c ON p.CATE_ID = c.CATE_ID 
+                      JOIN tb_uom u ON p.UOM_ID = u.UOM_ID";
+
+            DataSet ds = db.GetDataSet(strSql);
+
             if (ds.Tables[0].Rows.Count > 0)
             {
                 for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
                 {
-                    var uomId = ds.Tables[0].Rows[i]["uom_ID"];
-                    var uomName = ds.Tables[0].Rows[i]["uom_NAME"];
-                    dgvUOM.Rows.Add(uomId, uomName);
+                    var uomId = ds.Tables[0].Rows[i]["PROD_ID"];
+                    var prodCode = ds.Tables[0].Rows[i]["PROD_CODE"];
+                    var prodName = ds.Tables[0].Rows[i]["PROD_NAME"];
+                    var category = ds.Tables[0].Rows[i]["CATE_NAME"];
+                    var uom = ds.Tables[0].Rows[i]["UOM_NAME"];
+                    var isActive = ds.Tables[0].Rows[i]["IS_ACTIVE"];
+                    dgvProd.Rows.Add(uomId, prodCode, prodName, category, uom, isActive);
                 }
             }
-        }
 
+        }
         private void GetCategory()
         {
             string strSql = "SELECT CATE_ID,CATE_NAME FROM TB_CATEGORY ORDER BY CATE_NAME";
@@ -144,7 +154,10 @@ namespace NGPayroll
                     string category = cmbCate.Tag.ToString();
                     string uom = cmbUom.Tag.ToString();
                     string isActive = CB_isActive.Checked ? "Y" : "N";
-                    
+
+                    string categoryName = cmbCate.Text;
+                    string uomName = cmbUom.Text; 
+
                     int id = 0;
                     
                     // Get the next CATE_ID
@@ -163,7 +176,7 @@ namespace NGPayroll
                     if (db.RunDmlQuery(strSQL))
                     {
                         // Add data into grid
-                        dgvProd.Rows.Add(prodCode, prodName, category, uom, isActive);
+                        dgvProd.Rows.Add(id, prodCode, prodName, categoryName, uomName, isActive);
                         
                         // Clear input fields
                         txtProd_code.Clear();
@@ -181,6 +194,8 @@ namespace NGPayroll
                     MessageBox.Show("Product name cannot be empty.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                      
         }
+
+        
 
     }
 }
