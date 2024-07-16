@@ -88,9 +88,9 @@ namespace NGPayroll
                 cmbCate.SelectedIndex = -1;
             }
             else { 
-            KeyValuePair<string, int> sItemVal = (KeyValuePair<string, int>)cmbCate.SelectedItem;
-            cmbCate.Tag = sItemVal.Value;
-            cmbCate.Text = sItemVal.Key;
+                KeyValuePair<string, int> sItemVal = (KeyValuePair<string, int>)cmbCate.SelectedItem;
+                cmbCate.Tag = sItemVal.Value;
+                cmbCate.Text = sItemVal.Key;
             }
         }
 
@@ -318,6 +318,11 @@ namespace NGPayroll
         private void dgvProd_CellEndEdit(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex > -1) dgvProd.Rows[e.RowIndex].Cells["FLAG"].Value = "U";
+        }
+
+        private void txtProd_code_TextChanged(object sender, EventArgs e)
+        {
+
         }
 
         

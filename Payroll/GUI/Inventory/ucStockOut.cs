@@ -20,5 +20,10 @@ namespace NGPayroll
         {
 
         }
+
+        private void txtProd_name_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -34,6 +34,13 @@
             this.btnSearch = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
             this.dgvProd = new System.Windows.Forms.DataGridView();
+            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PROD_CODE = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PROD_NAME = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PROD_CATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PROD_UOM = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.STATUS = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FLAG = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txtProd_name = new System.Windows.Forms.TextBox();
             this.lblProd_name = new System.Windows.Forms.Label();
             this.txtProd_code = new System.Windows.Forms.TextBox();
@@ -44,13 +51,6 @@
             this.cmbUom = new System.Windows.Forms.ComboBox();
             this.lblProd_uom = new System.Windows.Forms.Label();
             this.lblActive = new System.Windows.Forms.Label();
-            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_CODE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_NAME = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_CATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_UOM = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.STATUS = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.FLAG = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProd)).BeginInit();
             this.SuspendLayout();
             // 
@@ -122,6 +122,47 @@
             this.dgvProd.TabIndex = 11;
             this.dgvProd.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProd_CellEndEdit);
             // 
+            // ID
+            // 
+            this.ID.HeaderText = "ID";
+            this.ID.Name = "ID";
+            this.ID.Visible = false;
+            this.ID.Width = 60;
+            // 
+            // PROD_CODE
+            // 
+            this.PROD_CODE.HeaderText = "Product Code";
+            this.PROD_CODE.Name = "PROD_CODE";
+            // 
+            // PROD_NAME
+            // 
+            this.PROD_NAME.HeaderText = "Product Name";
+            this.PROD_NAME.Name = "PROD_NAME";
+            this.PROD_NAME.Width = 200;
+            // 
+            // PROD_CATE
+            // 
+            this.PROD_CATE.HeaderText = "Product Category";
+            this.PROD_CATE.Name = "PROD_CATE";
+            this.PROD_CATE.Width = 150;
+            // 
+            // PROD_UOM
+            // 
+            this.PROD_UOM.HeaderText = "Product UOM";
+            this.PROD_UOM.Name = "PROD_UOM";
+            // 
+            // STATUS
+            // 
+            this.STATUS.HeaderText = "Status";
+            this.STATUS.Name = "STATUS";
+            this.STATUS.Width = 50;
+            // 
+            // FLAG
+            // 
+            this.FLAG.HeaderText = "Column1";
+            this.FLAG.Name = "FLAG";
+            this.FLAG.Visible = false;
+            // 
             // txtProd_name
             // 
             this.txtProd_name.Location = new System.Drawing.Point(395, 102);
@@ -144,6 +185,7 @@
             this.txtProd_code.Name = "txtProd_code";
             this.txtProd_code.Size = new System.Drawing.Size(166, 20);
             this.txtProd_code.TabIndex = 17;
+            this.txtProd_code.TextChanged += new System.EventHandler(this.txtProd_code_TextChanged);
             // 
             // lblProd_code
             // 
@@ -207,47 +249,6 @@
             this.lblActive.Size = new System.Drawing.Size(54, 13);
             this.lblActive.TabIndex = 23;
             this.lblActive.Text = "Is Active :";
-            // 
-            // ID
-            // 
-            this.ID.HeaderText = "ID";
-            this.ID.Name = "ID";
-            this.ID.Visible = false;
-            this.ID.Width = 60;
-            // 
-            // PROD_CODE
-            // 
-            this.PROD_CODE.HeaderText = "Product Code";
-            this.PROD_CODE.Name = "PROD_CODE";
-            // 
-            // PROD_NAME
-            // 
-            this.PROD_NAME.HeaderText = "Product Name";
-            this.PROD_NAME.Name = "PROD_NAME";
-            this.PROD_NAME.Width = 200;
-            // 
-            // PROD_CATE
-            // 
-            this.PROD_CATE.HeaderText = "Product Category";
-            this.PROD_CATE.Name = "PROD_CATE";
-            this.PROD_CATE.Width = 150;
-            // 
-            // PROD_UOM
-            // 
-            this.PROD_UOM.HeaderText = "Product UOM";
-            this.PROD_UOM.Name = "PROD_UOM";
-            // 
-            // STATUS
-            // 
-            this.STATUS.HeaderText = "Status";
-            this.STATUS.Name = "STATUS";
-            this.STATUS.Width = 50;
-            // 
-            // FLAG
-            // 
-            this.FLAG.HeaderText = "Column1";
-            this.FLAG.Name = "FLAG";
-            this.FLAG.Visible = false;
             // 
             // ucProduct
             // 
