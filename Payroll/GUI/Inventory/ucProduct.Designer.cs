@@ -34,13 +34,6 @@
             this.btnSearch = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
             this.dgvProd = new System.Windows.Forms.DataGridView();
-            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_CODE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_NAME = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_CATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_UOM = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.STATUS = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.update = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txtProd_name = new System.Windows.Forms.TextBox();
             this.lblProd_name = new System.Windows.Forms.Label();
             this.txtProd_code = new System.Windows.Forms.TextBox();
@@ -51,6 +44,13 @@
             this.cmbUom = new System.Windows.Forms.ComboBox();
             this.lblProd_uom = new System.Windows.Forms.Label();
             this.lblActive = new System.Windows.Forms.Label();
+            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PROD_CODE = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PROD_NAME = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PROD_CATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PROD_UOM = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.STATUS = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FLAG = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProd)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,6 +72,7 @@
             this.btnDelete.TabIndex = 15;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnEdit
             // 
@@ -81,6 +82,7 @@
             this.btnEdit.TabIndex = 14;
             this.btnEdit.Text = "Edit";
             this.btnEdit.UseVisualStyleBackColor = true;
+            this.btnEdit.Click += new System.EventHandler(this.btnEdit_Click);
             // 
             // btnSearch
             // 
@@ -90,6 +92,7 @@
             this.btnSearch.TabIndex = 13;
             this.btnSearch.Text = "Search";
             this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // btnAdd
             // 
@@ -112,52 +115,12 @@
             this.PROD_CATE,
             this.PROD_UOM,
             this.STATUS,
-            this.update});
+            this.FLAG});
             this.dgvProd.Location = new System.Drawing.Point(159, 285);
             this.dgvProd.Name = "dgvProd";
             this.dgvProd.Size = new System.Drawing.Size(644, 215);
             this.dgvProd.TabIndex = 11;
-            // 
-            // ID
-            // 
-            this.ID.HeaderText = "ID";
-            this.ID.Name = "ID";
-            this.ID.Visible = false;
-            this.ID.Width = 60;
-            // 
-            // PROD_CODE
-            // 
-            this.PROD_CODE.HeaderText = "Product Code";
-            this.PROD_CODE.Name = "PROD_CODE";
-            // 
-            // PROD_NAME
-            // 
-            this.PROD_NAME.HeaderText = "Product Name";
-            this.PROD_NAME.Name = "PROD_NAME";
-            this.PROD_NAME.Width = 200;
-            // 
-            // PROD_CATE
-            // 
-            this.PROD_CATE.HeaderText = "Product Category";
-            this.PROD_CATE.Name = "PROD_CATE";
-            this.PROD_CATE.Width = 150;
-            // 
-            // PROD_UOM
-            // 
-            this.PROD_UOM.HeaderText = "Product UOM";
-            this.PROD_UOM.Name = "PROD_UOM";
-            // 
-            // STATUS
-            // 
-            this.STATUS.HeaderText = "Status";
-            this.STATUS.Name = "STATUS";
-            this.STATUS.Width = 50;
-            // 
-            // update
-            // 
-            this.update.HeaderText = "Column1";
-            this.update.Name = "update";
-            this.update.Visible = false;
+            this.dgvProd.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProd_CellEndEdit);
             // 
             // txtProd_name
             // 
@@ -245,6 +208,47 @@
             this.lblActive.TabIndex = 23;
             this.lblActive.Text = "Is Active :";
             // 
+            // ID
+            // 
+            this.ID.HeaderText = "ID";
+            this.ID.Name = "ID";
+            this.ID.Visible = false;
+            this.ID.Width = 60;
+            // 
+            // PROD_CODE
+            // 
+            this.PROD_CODE.HeaderText = "Product Code";
+            this.PROD_CODE.Name = "PROD_CODE";
+            // 
+            // PROD_NAME
+            // 
+            this.PROD_NAME.HeaderText = "Product Name";
+            this.PROD_NAME.Name = "PROD_NAME";
+            this.PROD_NAME.Width = 200;
+            // 
+            // PROD_CATE
+            // 
+            this.PROD_CATE.HeaderText = "Product Category";
+            this.PROD_CATE.Name = "PROD_CATE";
+            this.PROD_CATE.Width = 150;
+            // 
+            // PROD_UOM
+            // 
+            this.PROD_UOM.HeaderText = "Product UOM";
+            this.PROD_UOM.Name = "PROD_UOM";
+            // 
+            // STATUS
+            // 
+            this.STATUS.HeaderText = "Status";
+            this.STATUS.Name = "STATUS";
+            this.STATUS.Width = 50;
+            // 
+            // FLAG
+            // 
+            this.FLAG.HeaderText = "Column1";
+            this.FLAG.Name = "FLAG";
+            this.FLAG.Visible = false;
+            // 
             // ucProduct
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -286,18 +290,18 @@
         private System.Windows.Forms.Label lblProd_name;
         private System.Windows.Forms.TextBox txtProd_code;
         private System.Windows.Forms.Label lblProd_code;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ID;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_CODE;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_NAME;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_CATE;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_UOM;
-        private System.Windows.Forms.DataGridViewTextBoxColumn STATUS;
-        private System.Windows.Forms.DataGridViewTextBoxColumn update;
         private System.Windows.Forms.Label lblProd_cate;
         private System.Windows.Forms.CheckBox CB_isActive;
         private System.Windows.Forms.ComboBox cmbCate;
         private System.Windows.Forms.ComboBox cmbUom;
         private System.Windows.Forms.Label lblProd_uom;
         private System.Windows.Forms.Label lblActive;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ID;
+        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_CODE;
+        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_NAME;
+        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_CATE;
+        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_UOM;
+        private System.Windows.Forms.DataGridViewTextBoxColumn STATUS;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FLAG;
     }
 }

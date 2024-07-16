@@ -102,7 +102,7 @@ namespace NGPayroll
                 string text = txtCate.Text.ToLower();                
 
                 // Check if the text box is not empty
-                if (txtCate.Text.Trim() != "") subquary = " and LOWER(cate_name) = '" + text + "'";
+                if (txtCate.Text.Trim() != "") subquary = subquary+" and LOWER(cate_name) = '" + text + "'";
 
                 // Retrieve categories matching the search text
                 DataSet ds = db.GetDataSet("SELECT * FROM tb_category WHERE 1 = 1" + subquary);

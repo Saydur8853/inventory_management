@@ -155,6 +155,7 @@ namespace NGPayroll
                     string uom = cmbUom.Tag.ToString();
                     string isActive = CB_isActive.Checked ? "Y" : "N";
 
+                    //added for show cat_name, and uom_name in the dgv
                     string categoryName = cmbCate.Text;
                     string uomName = cmbUom.Text; 
 
@@ -193,6 +194,130 @@ namespace NGPayroll
                 else
                     MessageBox.Show("Product name cannot be empty.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                      
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            dgvProd.Rows.Clear();
+
+            // Get the search text
+            string subquary = "";
+            string status = CB_isActive.Checked ? "Y" : "N";
+
+
+            // Check if the text box is not empty
+            if (txtProd_name.Text.Trim() != "") subquary = subquary + " and LOWER(p.PROD_NAME) = '" + txtProd_name.Text.ToLower() + "'";
+            if (txtProd_code.Text.Trim() != "") subquary = subquary + " and LOWER(p.PROD_CODE) = '" + txtProd_code.Text.ToLower() + "'";
+            if (cmbCate.Text.Trim() != "") subquary = subquary + " and p.CATE_ID = '" + cmbCate.Tag.ToString() + "'";
+            if (cmbUom.Text.Trim() != "") subquary = subquary + " and p.UOM_ID = '" + cmbUom.Tag.ToString() + "'";
+            subquary = subquary + " and p.IS_ACTIVE = '" + status + "'";
+
+
+            // Retrieve categories matching the search text
+           string strSql = @"SELECT p.PROD_ID, p.PROD_CODE, p.PROD_NAME, c.CATE_NAME, u.UOM_NAME, p.IS_ACTIVE 
+                      FROM tb_product p, tb_category c, tb_uom u
+                      WHERE p.CATE_ID = c.CATE_ID AND p.UOM_ID = u.UOM_ID" + subquary;
+            DataSet ds = db.GetDataSet(strSql);
+
+            // Retrieve data into grid
+            if (ds.Tables[0].Rows.Count > 0)
+            {
+                for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
+                {
+                   var uomId = ds.Tables[0].Rows[i]["PROD_ID"];
+                   var prodCode = ds.Tables[0].Rows[i]["PROD_CODE"];
+                   var prodName = ds.Tables[0].Rows[i]["PROD_NAME"];
+                   var category = ds.Tables[0].Rows[i]["CATE_NAME"];
+                   var uom = ds.Tables[0].Rows[i]["UOM_NAME"];
+                   var isActive = ds.Tables[0].Rows[i]["IS_ACTIVE"];
+
+                    // Add a new row to the DataGridView
+                    dgvProd.Rows.Add();
+                    dgvProd.Rows[i].Cells["PROD_CODE"].Value = prodCode;
+                    dgvProd.Rows[i].Cells["PROD_NAME"].Value = prodName;
+                    dgvProd.Rows[i].Cells["PROD_CATE"].Value = category;
+                    dgvProd.Rows[i].Cells["PROD_UOM"].Value = uom;
+                    dgvProd.Rows[i].Cells["STATUS"].Value = isActive;
+                }
+            }
+            else
+            {
+                MessageBox.Show("No Product found.", "Search Result", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            // Ensure a cell or row is selected
+            if (dgvProd.SelectedRows.Count > 0)
+            {
+                int prodId = 0; bool b = false;
+                for (int i = 0; i < dgvProd.SelectedRows.Count; i++)
+                {
+                    prodId = Convert.ToInt32(dgvProd.SelectedRows[i].Cells["ID"].Value);
+                    string strSQL = "DELETE FROM tb_product WHERE PROD_ID = " + prodId;
+                    b = db.RunDmlQuery(strSQL);
+                }
+
+                if (b)
+                {
+                    // Remove the selected row from the DataGridView
+
+                    dgvProd.Rows.Clear();
+
+                    MessageBox.Show("Product deleted successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("Please select product to delete.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnEdit_Click(object sender, EventArgs e)
+        {
+            {
+                //DO: Edit data into uom table
+                // Ensure a cell or row is selected
+                if (dgvProd.Rows.Count > 0)
+                {
+                    bool b = false;
+                    int prodId = 0;
+                    
+                    for (int i = 0; i < dgvProd.Rows.Count; i++)
+                    {
+                        if (dgvProd.Rows[i].Cells["FLAG"].Value != null && dgvProd.Rows[i].Cells["FLAG"].Value.ToString() == "U")
+                        {
+                            prodId = Convert.ToInt32(dgvProd.Rows[i].Cells["ID"].Value);
+                            string prodName = dgvProd.Rows[i].Cells["PROD_NAME"].Value.ToString();
+                            string prodCode = dgvProd.Rows[i].Cells["PROD_CODE"].Value.ToString();
+                            string status = dgvProd.Rows[i].Cells["STATUS"].Value.ToString();
+
+                            string strSQL = "UPDATE tb_product SET PROD_NAME = '" + prodName + "', PROD_CODE = '" + prodCode + "', IS_ACTIVE = '" + status + "' WHERE PROD_ID = " + prodId;
+
+                            b = db.RunDmlQuery(strSQL);
+                        }
+                    }
+                    if (b)
+                    {
+                        // Remove the selected row from the DataGridView
+
+                        dgvProd.Rows.Clear();
+                        MessageBox.Show("PRODUCT updated successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Please select PRODUCT to delete.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
+
+        //placeing Flag for cell end edit 
+        private void dgvProd_CellEndEdit(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex > -1) dgvProd.Rows[e.RowIndex].Cells["FLAG"].Value = "U";
         }
 
         
