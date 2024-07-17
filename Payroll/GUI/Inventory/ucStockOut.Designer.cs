@@ -32,20 +32,17 @@
             this.txtProd_qty = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.dtpDate = new System.Windows.Forms.DateTimePicker();
             this.cmbProd = new System.Windows.Forms.ComboBox();
             this.btnAdd = new System.Windows.Forms.Button();
             this.lblProd_name = new System.Windows.Forms.Label();
             this.dgvProd = new System.Windows.Forms.DataGridView();
             this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_CODE = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DO_DATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.PROD_NAME = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.PROD_CATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_UOM = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.STATUS = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_RATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DEL_DATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PROD_QTY = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.AVL_QTY = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DO_QUANTITY = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.FLAG = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProd)).BeginInit();
             this.SuspendLayout();
@@ -59,7 +56,6 @@
             this.label1.Size = new System.Drawing.Size(180, 45);
             this.label1.TabIndex = 3;
             this.label1.Text = "Stock Out";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtProd_qty
             // 
@@ -86,14 +82,14 @@
             this.label3.TabIndex = 49;
             this.label3.Text = "Date: ";
             // 
-            // dateTimePicker1
+            // dtpDate
             // 
-            this.dateTimePicker1.CustomFormat = "dd-MMM-yyyy";
-            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker1.Location = new System.Drawing.Point(466, 186);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(166, 20);
-            this.dateTimePicker1.TabIndex = 7;
+            this.dtpDate.CustomFormat = "dd-MMM-yyyy";
+            this.dtpDate.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpDate.Location = new System.Drawing.Point(466, 186);
+            this.dtpDate.Name = "dtpDate";
+            this.dtpDate.Size = new System.Drawing.Size(166, 20);
+            this.dtpDate.TabIndex = 7;
             // 
             // cmbProd
             // 
@@ -102,6 +98,7 @@
             this.cmbProd.Name = "cmbProd";
             this.cmbProd.Size = new System.Drawing.Size(166, 21);
             this.cmbProd.TabIndex = 45;
+            this.cmbProd.SelectedIndexChanged += new System.EventHandler(this.cmbProd_SelectedIndexChanged);
             // 
             // btnAdd
             // 
@@ -111,6 +108,7 @@
             this.btnAdd.TabIndex = 44;
             this.btnAdd.Text = "SOLD";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // lblProd_name
             // 
@@ -127,18 +125,15 @@
             this.dgvProd.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvProd.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.ID,
-            this.PROD_CODE,
+            this.DO_DATE,
             this.PROD_NAME,
             this.PROD_CATE,
-            this.PROD_UOM,
-            this.STATUS,
-            this.PROD_RATE,
-            this.DEL_DATE,
-            this.PROD_QTY,
+            this.AVL_QTY,
+            this.DO_QUANTITY,
             this.FLAG});
-            this.dgvProd.Location = new System.Drawing.Point(91, 266);
+            this.dgvProd.Location = new System.Drawing.Point(260, 256);
             this.dgvProd.Name = "dgvProd";
-            this.dgvProd.Size = new System.Drawing.Size(846, 215);
+            this.dgvProd.Size = new System.Drawing.Size(595, 217);
             this.dgvProd.TabIndex = 52;
             // 
             // ID
@@ -148,10 +143,10 @@
             this.ID.Visible = false;
             this.ID.Width = 60;
             // 
-            // PROD_CODE
+            // DO_DATE
             // 
-            this.PROD_CODE.HeaderText = "Product Code";
-            this.PROD_CODE.Name = "PROD_CODE";
+            this.DO_DATE.HeaderText = "DO. Date";
+            this.DO_DATE.Name = "DO_DATE";
             // 
             // PROD_NAME
             // 
@@ -164,31 +159,15 @@
             this.PROD_CATE.Name = "PROD_CATE";
             this.PROD_CATE.Width = 150;
             // 
-            // PROD_UOM
+            // AVL_QTY
             // 
-            this.PROD_UOM.HeaderText = "Product UOM";
-            this.PROD_UOM.Name = "PROD_UOM";
+            this.AVL_QTY.HeaderText = "Avl. Quantity";
+            this.AVL_QTY.Name = "AVL_QTY";
             // 
-            // STATUS
+            // DO_QUANTITY
             // 
-            this.STATUS.HeaderText = "Status";
-            this.STATUS.Name = "STATUS";
-            this.STATUS.Width = 50;
-            // 
-            // PROD_RATE
-            // 
-            this.PROD_RATE.HeaderText = "Rate";
-            this.PROD_RATE.Name = "PROD_RATE";
-            // 
-            // DEL_DATE
-            // 
-            this.DEL_DATE.HeaderText = "DEL Date";
-            this.DEL_DATE.Name = "DEL_DATE";
-            // 
-            // PROD_QTY
-            // 
-            this.PROD_QTY.HeaderText = "Quantity";
-            this.PROD_QTY.Name = "PROD_QTY";
+            this.DO_QUANTITY.HeaderText = "DO. Quantity";
+            this.DO_QUANTITY.Name = "DO_QUANTITY";
             // 
             // FLAG
             // 
@@ -204,13 +183,14 @@
             this.Controls.Add(this.txtProd_qty);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.dtpDate);
             this.Controls.Add(this.cmbProd);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.lblProd_name);
             this.Controls.Add(this.label1);
             this.Name = "ucStockOut";
-            this.Size = new System.Drawing.Size(1920, 620);
+            this.Size = new System.Drawing.Size(1120, 620);
+            this.Load += new System.EventHandler(this.ucStockOut_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProd)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -223,20 +203,17 @@
         private System.Windows.Forms.TextBox txtProd_qty;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.DateTimePicker dtpDate;
         private System.Windows.Forms.ComboBox cmbProd;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Label lblProd_name;
         private System.Windows.Forms.DataGridView dgvProd;
         private System.Windows.Forms.DataGridViewTextBoxColumn ID;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_CODE;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DO_DATE;
         private System.Windows.Forms.DataGridViewTextBoxColumn PROD_NAME;
         private System.Windows.Forms.DataGridViewTextBoxColumn PROD_CATE;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_UOM;
-        private System.Windows.Forms.DataGridViewTextBoxColumn STATUS;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_RATE;
-        private System.Windows.Forms.DataGridViewTextBoxColumn DEL_DATE;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PROD_QTY;
+        private System.Windows.Forms.DataGridViewTextBoxColumn AVL_QTY;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DO_QUANTITY;
         private System.Windows.Forms.DataGridViewTextBoxColumn FLAG;
     }
 }

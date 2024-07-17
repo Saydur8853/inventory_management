@@ -32,13 +32,6 @@
             this.cmbProd = new System.Windows.Forms.ComboBox();
             this.btnAdd = new System.Windows.Forms.Button();
             this.dgvProd = new System.Windows.Forms.DataGridView();
-            this.lblProd_name = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtProd_rate = new System.Windows.Forms.TextBox();
-            this.dtpDate = new System.Windows.Forms.DateTimePicker();
-            this.label3 = new System.Windows.Forms.Label();
-            this.txtProd_qty = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
             this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.PO_DATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.PROD_CODE = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -48,6 +41,13 @@
             this.PROD_RATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.PROD_QTY = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.FLAG = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.lblProd_name = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtProd_rate = new System.Windows.Forms.TextBox();
+            this.dtpDate = new System.Windows.Forms.DateTimePicker();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtProd_qty = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProd)).BeginInit();
             this.SuspendLayout();
             // 
@@ -99,6 +99,55 @@
             this.dgvProd.Name = "dgvProd";
             this.dgvProd.Size = new System.Drawing.Size(795, 215);
             this.dgvProd.TabIndex = 26;
+            // 
+            // ID
+            // 
+            this.ID.HeaderText = "ID";
+            this.ID.Name = "ID";
+            this.ID.Visible = false;
+            this.ID.Width = 60;
+            // 
+            // PO_DATE
+            // 
+            this.PO_DATE.HeaderText = "PO Date";
+            this.PO_DATE.Name = "PO_DATE";
+            // 
+            // PROD_CODE
+            // 
+            this.PROD_CODE.HeaderText = "Product Code";
+            this.PROD_CODE.Name = "PROD_CODE";
+            // 
+            // PROD_NAME
+            // 
+            this.PROD_NAME.HeaderText = "Product Name";
+            this.PROD_NAME.Name = "PROD_NAME";
+            // 
+            // PROD_CATE
+            // 
+            this.PROD_CATE.HeaderText = "Product Category";
+            this.PROD_CATE.Name = "PROD_CATE";
+            this.PROD_CATE.Width = 150;
+            // 
+            // PROD_UOM
+            // 
+            this.PROD_UOM.HeaderText = "Product UOM";
+            this.PROD_UOM.Name = "PROD_UOM";
+            // 
+            // PROD_RATE
+            // 
+            this.PROD_RATE.HeaderText = "Rate";
+            this.PROD_RATE.Name = "PROD_RATE";
+            // 
+            // PROD_QTY
+            // 
+            this.PROD_QTY.HeaderText = "Quantity";
+            this.PROD_QTY.Name = "PROD_QTY";
+            // 
+            // FLAG
+            // 
+            this.FLAG.HeaderText = "Column1";
+            this.FLAG.Name = "FLAG";
+            this.FLAG.Visible = false;
             // 
             // lblProd_name
             // 
@@ -161,55 +210,6 @@
             this.label4.TabIndex = 40;
             this.label4.Text = "Quantity:";
             // 
-            // ID
-            // 
-            this.ID.HeaderText = "ID";
-            this.ID.Name = "ID";
-            this.ID.Visible = false;
-            this.ID.Width = 60;
-            // 
-            // PO_DATE
-            // 
-            this.PO_DATE.HeaderText = "PO Date";
-            this.PO_DATE.Name = "PO_DATE";
-            // 
-            // PROD_CODE
-            // 
-            this.PROD_CODE.HeaderText = "Product Code";
-            this.PROD_CODE.Name = "PROD_CODE";
-            // 
-            // PROD_NAME
-            // 
-            this.PROD_NAME.HeaderText = "Product Name";
-            this.PROD_NAME.Name = "PROD_NAME";
-            // 
-            // PROD_CATE
-            // 
-            this.PROD_CATE.HeaderText = "Product Category";
-            this.PROD_CATE.Name = "PROD_CATE";
-            this.PROD_CATE.Width = 150;
-            // 
-            // PROD_UOM
-            // 
-            this.PROD_UOM.HeaderText = "Product UOM";
-            this.PROD_UOM.Name = "PROD_UOM";
-            // 
-            // PROD_RATE
-            // 
-            this.PROD_RATE.HeaderText = "Rate";
-            this.PROD_RATE.Name = "PROD_RATE";
-            // 
-            // PROD_QTY
-            // 
-            this.PROD_QTY.HeaderText = "Quantity";
-            this.PROD_QTY.Name = "PROD_QTY";
-            // 
-            // FLAG
-            // 
-            this.FLAG.HeaderText = "Column1";
-            this.FLAG.Name = "FLAG";
-            this.FLAG.Visible = false;
-            // 
             // ucStockIn
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -226,7 +226,7 @@
             this.Controls.Add(this.lblProd_name);
             this.Controls.Add(this.label1);
             this.Name = "ucStockIn";
-            this.Size = new System.Drawing.Size(1920, 620);
+            this.Size = new System.Drawing.Size(1120, 620);
             this.Load += new System.EventHandler(this.ucStockIn_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProd)).EndInit();
             this.ResumeLayout(false);
